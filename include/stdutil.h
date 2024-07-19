@@ -5,6 +5,4 @@
 #include "cstring.h"
 #include "errorf.h"
 
-void testFunction();
-
 #endif
